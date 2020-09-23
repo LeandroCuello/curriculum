@@ -2018,4 +2018,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Alex's Solution](https://github.com/altays/RPS-Odin) - [View in Browser](https://altays.github.io/RPS-Odin/)
 - [TheScurvyPirate's Solution](https://github.com/TheScurvyPirate/odin-rps) - [View in Browser](https://thescurvypirate.github.io/odin-rps/)
 - [mohammedWasik's Solution](https://github.com/mohammedWasik/Rock-Paper-Scissor) - [View in Browser](https://mohammedwasik.github.io/Rock-Paper-Scissor/)
+- [Leandro's Solution](https://github.com/LeandroCuello/RockPaperScissors) - [View in Browser](https://leandrocuello.github.io/RockPaperScissors/)
 </details>
